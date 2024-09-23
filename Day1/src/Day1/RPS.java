@@ -1,5 +1,6 @@
-
+package Day1;
 import java.util.*;
+
 
 // Email : jungsoma@gmail.com
 // rock-paper-scissors (RPS)

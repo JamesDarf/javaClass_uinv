@@ -1,4 +1,4 @@
-
+package Day1;
 
 public class Hello {
 	public static int sum(int n, int m) {
