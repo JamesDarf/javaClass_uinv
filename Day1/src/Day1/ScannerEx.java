@@ -9,6 +9,7 @@ public class ScannerEx {
 
 		String name = scanner.next();
 		String city = scanner.next();
+		
 		int age = scanner.nextInt();
 		double weight = scanner.nextDouble();
 		boolean single = scanner.nextBoolean();
@@ -19,3 +20,4 @@ public class ScannerEx {
 
 	}
 }
+
